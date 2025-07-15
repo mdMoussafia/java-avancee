@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8040d7a8-b93c-40d8-97f8-caed8db61e52" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/ajoutPatient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/ajoutPatient.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/ajouterConsultation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/ajouterConsultation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/interface.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/interface.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/modifierConsultation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/modifierConsultation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/modifierPatient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/modifierPatient.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/supprimer Patient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/supprimer Patient.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/supprmierConsultation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/supprmierConsultation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/controllers/ConsultationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/controllers/ConsultationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/controllers/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/controllers/PatientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/ConsultationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/ConsultationDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/DBconnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/DBconnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/Dao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/IConsultationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/IConsultationDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/IPatientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/IPatientDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/PatientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/PatientDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/entities/Consultation.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/entities/Consultation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/entities/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/entities/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/service/CabinetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/service/CabinetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/service/ICabinetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/service/ICabinetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/service/ServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/service/ServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/resources/ma/enset/gestionconsultation/views/consultationView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/resources/ma/enset/gestionconsultation/views/consultationView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/resources/ma/enset/gestionconsultation/views/main-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/resources/ma/enset/gestionconsultation/views/main-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/resources/ma/enset/gestionconsultation/views/patientView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/resources/ma/enset/gestionconsultation/views/patientView.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zvdm4sQOnBuIEKsBL3jdcQm6Gb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/STATE/Videos/oop-avancee",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8040d7a8-b93c-40d8-97f8-caed8db61e52" name="Changes" comment="" />
+      <created>1752615638907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752615638907</updated>
+      <workItem from="1752615639596" duration="967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
