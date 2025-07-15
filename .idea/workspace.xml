@@ -5,41 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8040d7a8-b93c-40d8-97f8-caed8db61e52" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/ajoutPatient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/ajoutPatient.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/ajouterConsultation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/ajouterConsultation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/interface.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/interface.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/modifierConsultation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/modifierConsultation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/modifierPatient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/modifierPatient.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/supprimer Patient.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/supprimer Patient.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/images/supprmierConsultation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/images/supprmierConsultation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/controllers/ConsultationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/controllers/ConsultationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/controllers/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/controllers/PatientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/ConsultationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/ConsultationDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/DBconnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/DBconnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/Dao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/IConsultationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/IConsultationDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/IPatientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/IPatientDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/dao/PatientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/dao/PatientDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/entities/Consultation.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/entities/Consultation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/entities/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/entities/Patient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/service/CabinetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/service/CabinetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/service/ICabinetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/service/ICabinetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/ma/enset/gestionconsultation/service/ServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/ma/enset/gestionconsultation/service/ServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/resources/ma/enset/gestionconsultation/views/consultationView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/resources/ma/enset/gestionconsultation/views/consultationView.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/resources/ma/enset/gestionconsultation/views/main-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/resources/ma/enset/gestionconsultation/views/main-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-consultation/src/main/resources/ma/enset/gestionconsultation/views/patientView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-consultation-patients/src/main/resources/ma/enset/gestionconsultation/views/patientView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp-application-Chat/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application-Chat/src/Chat.class" beforeDir="false" afterPath="$PROJECT_DIR$/tp-application-Chat/src/Chat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application-Chat/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp-application-Chat/src/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application-Chat/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp-application-Chat/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application-Chat/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp-application-Chat/src/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application-Chat/src/ServerMultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp-application-Chat/src/ServerMultiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application-Chat/src/SocketThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp-application-Chat/src/SocketThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752615638907</updated>
-      <workItem from="1752615639596" duration="967000" />
+      <workItem from="1752615639596" duration="1599000" />
     </task>
     <servers />
   </component>
