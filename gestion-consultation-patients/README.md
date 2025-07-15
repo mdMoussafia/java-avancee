@@ -1,7 +1,7 @@
 <h1>Gestion Cabinet Médical - Patients et Rendez-vous:</h1>
 
 <h2>Écran principal de l'application</h2>
-![Interface](images/interface.jpg)
+<img src="images/interface.jpg">
 
 <h2>Gestion des Patients</h2>
 
@@ -9,24 +9,28 @@
 et rafraîchit la sélection des consultations en utilisant 
 cabinetService.</p>
 
-![AjouterP](images/ajoutPatient.jpg)
+<img src="images/ajoutPatient.jpg">
+
 
 <p>La modification d'un patient synchronise instantanément le tableau principal et la liste des consultations via les services backend cabinetService.</p>
 
-![ModifierP](images/modifierPatient.jpg)
+<img src="images/modifierPatient.jpg">
+
 
 <p>Retirer un patient du système actualise en temps réel l'affichage du tableau et met à jour les options de consultation grâce à cabinetService.</p>
-![SupprimerP](images/supprimer%20Patient.jpg)
+<img src="images/supprimer%20Patient.jpg">
 
 <h2>Gestion des Consultations</h2>
 
 Ajouter une consultation.
-![Interface](images/ajouterConsultation.jpg)
+<img src="images/ajouterConsultation.jpg">
 
 Modifier une consultation
-![Interface](images/modifierConsultation.jpg)
+<img src="images/modifierConsultation.jpg">
+
 
 Supprimer Une consultation
-![Interface](images/supprmierConsultation.jpg)
+<img src="images/supprmierConsultation.jpg">
+
 
 
